@@ -1,5 +1,7 @@
 # Machine learning
-check list : https://www.notion.so/ML-d9a767a651e24764b50ceffa0fe43b66
+
+
+* check list : https://www.notion.so/ML-d9a767a651e24764b50ceffa0fe43b66
 ---
 
 ## tf_ML
