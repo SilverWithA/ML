@@ -11,6 +11,14 @@ Google developer ML 단기 집중과정 한글 번역 및 실습 코드
 * hyperparameter.ipynb : 합성데이터를 통한 선형회귀 실습
 * GD_linear_regression.ipynb : 실제데이터를 통한 선형회귀 실습
 
+
+### 혼공 머신
+
+- 인공 신경망(ANN)
+- 심층 신경망(DNN)
+- 신경망 모델 훈련
+
+
 ---
 
 ## sklearn_ML
@@ -69,15 +77,6 @@ GMM방식을 이용한 군집 분석
 DBSCAN 방법을 이용한 군집 분석
 
 ---
-
-## tf-ML
-
-### 혼공 머신
-
-- 인공 신경망(ANN)
-- 심층 신경망(DNN)
-- 신경망 모델 훈련
-
 
 
 
