@@ -41,7 +41,7 @@ Google developer ML 단기 집중과정 한글 번역 및 실습 코드
 * LightGBM
 * 베이지안 최적화 기반 HyperOpt
 
-### unsupervised
+### Unsupervised
 
 비지도학습
 #### 혼공머신
@@ -54,18 +54,29 @@ Google developer ML 단기 집중과정 한글 번역 및 실습 코드
 
 - 차원축소
 PCA,LDA,SVD,NMF
+
 - 군집화 k-평균
 K-Means 알고리즘을 이용한 군집 분석
+
 - 군집과 평균이동
 평균이동 방법을 이용한 군집 분석
+
 - 군집 가우시안 분포
 GMM방식을 이용한 군집 분석
+
 - 군집과 DBSCAN
-DBSCAN 방법을 이용한 
 
+DBSCAN 방법을 이용한 군집 분석
 
+---
 
+## tf-ML
 
+### 혼공 머신
+
+- 인공 신경망(ANN)
+- 심층 신경망(DNN)
+- 신경망 모델 훈련
 
 
 
